@@ -13,6 +13,13 @@ Notes:
 
 - [usehook-ts](https://usehooks-ts.com/) is used in [useElementSize](./lib/useElementSize.ts)
 
+---
+
+Preview links:
+
+- `main` branch: https://next-glowing-button.vercel.app/
+- `dev` branch: https://next-glowing-button-git-dev-reckless-labs.vercel.app/
+
 <!-- TODOS:
 
 - [ ] Remove pages/\_app.tsx
