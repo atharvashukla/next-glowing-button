@@ -1,6 +1,6 @@
 {
-  "name": "glowing-button",
-  "version": "1.0.0",
+  "name": "react-glowing-button",
+  "version": "0.0.1",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
